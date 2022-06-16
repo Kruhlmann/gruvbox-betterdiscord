@@ -20,7 +20,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - uses: actions/checkout@v3
       - name: Install SCSS compiler
-        run: npm -g install node-sass
+        run: npm -g install sass
       - name: Build CSS
         run: make
       - name: Install theme
