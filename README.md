@@ -1,3 +1,3 @@
-# gruvbox-betterdiscord
+# BetterDiscord gruvbox
 
 Gruvbox based BettterDiscord theme
